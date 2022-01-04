@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevOps-Tuck
 - 👀 I’m interested in Automation 😎
-- 🌱 I’m currently learning Swift and Kotlin & Swift
+- 🌱 I’m currently learning Kotlin & Swift
 - 💞️ I’m looking to collaborate on Packaging a NuxtJS app for Android and iOS
 
 
