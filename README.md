@@ -1,34 +1,51 @@
-<h1 align="center">Hey there, I'm <a href="https://github.com/DevOps-Tuck" target="_blank">@DevOps-Tuck</a> 👋</h1>
+
+# 👋 Hi, I’m DevOps-Tuck!
+
+## About Me
+
+I’m a Customer Success Engineer who bridges the gap between technical implementation and client enablement. I work closely with both delivery and customer success teams to ensure a smooth onboarding and adoption experience for clients. My day-to-day involves conducting code reviews, supporting implementation, and guiding clients and Customer Success Managers (CSMs) through new features to maximize product value.
+
+## 🛠️ Skills
+
+**Technical:**  
+- Swift
+- DevOps Enthusiast | Full-Stack Explorer 
+- Passionate about Automation and Cloud Orchestration
+- Python  
+- SQL & Amazon RDS  
+- Ruby on Rails  
+
+**Soft Skills:**  
+- Cross-functional communication  
+- Client training  
+- Technical enablement  
+- Agile collaboration
+
+
+
+## 🚀 Notable Project
+
+### Explore Central Park
+A mobile app built in Swift to help users discover hidden gems throughout Central Park. The app features:
+- Geolocation and real-time navigation
+- Historical facts for each site
+- A user-friendly, interactive experience
+
+## 🌱 What I’m Working On
+
+- Improving customer onboarding and product adoption experiences
+- Enabling teams and clients to get the most out of our solutions
+- Building technical solutions that bridge business needs and engineering
+- Aspiring to create **mini Swift games** and dive deeper into game development for iOS!
+
+## 🤝 Let’s Connect
+
+Feel free to reach out if you’d like to discuss customer success, technical enablement, or exciting cross-functional projects!
+
+**Email:** [yttnorman@example.com](mailto:ytnorman@example.com)  
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yale-tucker-norman-28a263b6/)  
+**GitHub:** [DevOps-Tuck](https://github.com/DevOps-Tuck)  
 
 ---
 
-- 🚀 DevOps Enthusiast | Full-Stack Explorer 
-- 🤖 Passionate about Automation and Cloud Orchestration
-- 💡 Building on the edges of Kotlin, Swift, and Nuxt.js
-- 🌱 Continuously learning to elevate Android & iOS experiences
-- ⚡ On a mission to package a NuxtJS app for both Android & iOS
-- 💬 Open to collaborations in CI/CD, Mobile Dev, and Cloud Architecture
-- 🎮 Aspiring to create **mini Swift games** and dive deeper into game development for iOS!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="600"/>
-</div>
-
----
-
-### 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-00599C?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NuxtJS-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
-
-<!---
-DevOps-Tuck/DevOps-Tuck: ✨ Special ✨ repository because its `README.md` appears on your GitHub profile.
-Take a sneak peek at the things I’m building!
---->
+*Thanks for stopping by my page!*
