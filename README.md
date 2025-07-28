@@ -42,8 +42,8 @@ A mobile app built in Swift to help users discover hidden gems throughout Centra
 
 Feel free to reach out if you’d like to discuss customer success, technical enablement, or exciting cross-functional projects!
 
-**Email:** [yttnorman@example.com](mailto:ytnorman@example.com)  
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yale-tucker-norman-28a263b6/)  
+**Email:** [ytnorman@example.com](mailto:ytnorman@example.com)  
+**LinkedIn:** [Profile](https://www.linkedin.com/in/yale-tucker-norman-28a263b6/)  
 **GitHub:** [DevOps-Tuck](https://github.com/DevOps-Tuck)  
 
 ---
