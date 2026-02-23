@@ -74,11 +74,6 @@ I'm a **QA Automation Engineer** passionate about building reliable, scalable te
 
 </div>
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DevOps-Tuck&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
