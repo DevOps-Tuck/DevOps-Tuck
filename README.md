@@ -1,10 +1,14 @@
 <div align="center">
 
-# Yale Norman
-### QA Automation Engineer | AI-Powered Testing | DevOps Enthusiast
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yale%20Norman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=QA%20Automation%20%E2%80%A2%20AI-Powered%20Testing%20%E2%80%A2%20DevOps&descAlignY=58&descSize=18)](https://github.com/DevOps-Tuck)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yale-tucker-norman-28a263b6/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevOps-Tuck)
+![Profile Views](https://komarev.com/ghpvc/?username=DevOps-Tuck&label=Profile%20Views&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yale-tucker-norman-28a263b6/)
+[![GitHub followers](https://img.shields.io/github/followers/DevOps-Tuck?style=flat-square&color=blueviolet&label=Followers)](https://github.com/DevOps-Tuck)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9FF&center=true&vCenter=true&random=false&width=620&lines=QA+Automation+Engineer+%F0%9F%8E%AD;Playwright+%7C+Momentic+%7C+Cypress;AI-Powered+Testing+Advocate;Building+test+infrastructure+that+scales;Breaking+things+on+purpose+%F0%9F%90%9B)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,28 +27,29 @@ I'm a **QA Automation Engineer** passionate about building reliable, scalable te
 
 ## 🧰 Tech Stack
 
+<div align="center">
+
 **Testing & QA**
+
+[![Testing Skills](https://skillicons.dev/icons?i=jest,selenium,postman,py,bash&theme=dark)](https://skillicons.dev)
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Momentic](https://img.shields.io/badge/Momentic-AI%20Testing-blueviolet?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+<br/>
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+[![Language Skills](https://skillicons.dev/icons?i=py,ts,js,swift,ruby&theme=dark)](https://skillicons.dev)
 
-**DevOps & Cloud**
+<br/>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**DevOps & Tools**
+
+[![DevOps Skills](https://skillicons.dev/icons?i=github,docker,aws,vscode,git&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -60,6 +65,32 @@ I'm a **QA Automation Engineer** passionate about building reliable, scalable te
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevOps-Tuck&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevOps-Tuck&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=DevOps-Tuck&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevOps-Tuck/DevOps-Tuck/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevOps-Tuck/DevOps-Tuck/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevOps-Tuck/DevOps-Tuck/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -97,5 +128,7 @@ Open to conversations about QA automation, AI-powered testing, DevOps, or anythi
 ---
 
 <div align="center">
-  <i>Thanks for stopping by — now go write some tests! 🎭</i>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/DevOps-Tuck)
+
 </div>
