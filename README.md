@@ -52,8 +52,8 @@ I'm a **QA Automation Engineer** passionate about building reliable, scalable te
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevOps-Tuck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOps-Tuck&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevOps-Tuck&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevOps-Tuck&theme=tokyonight"/>
 
 </div>
 
