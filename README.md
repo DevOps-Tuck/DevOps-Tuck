@@ -68,11 +68,11 @@ I'm a **QA Automation Engineer** passionate about building reliable, scalable te
 
 </div>
 
-<div align="center">
+  <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevOps-Tuck&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![GitHub Contribution Graph](https://ghchart.rshah.org/DevOps-Tuck)
 
-</div>
+  </div>
 
 
 ---
